@@ -1,0 +1,16 @@
+Dataset links:
+
+1) Connect-4 Data Set
+https://archive.ics.uci.edu/ml/datasets/Connect-4 
+
+2) Nursery Data Set
+https://archive.ics.uci.edu/ml/datasets/Nursery
+
+3) Mushroom Data Set
+https://archive.ics.uci.edu/ml/datasets/mushroom 
+
+4) Tic-Tac-Toe Endgame Data Set
+https://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame 
+
+5) Zoo Data Set
+https://archive.ics.uci.edu/ml/datasets/zoo 
